@@ -1,0 +1,551 @@
+<resources>
+    <string name="app_name">淡江美食E手掌握</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="mon">一</string>
+    <string name="tue">二</string>
+    <string name="wed">三</string>
+    <string name="thu">四</string>
+    <string name="fri">五</string>
+    <string name="sat">六</string>
+    <string name="sun">日</string>
+    <string name="area1">大學城</string>
+    <string name="area2">大田寮</string>
+    <string name="area3">水源街</string>
+    <string name="store101">\n
+        大快披薩\n\n
+        新北市淡水區北新路182巷15號\n
+        02-86310505\n
+        10:30-21:30\n
+    </string>
+    <string name="store102">\n
+        好吃割包\n\n
+        新北市淡水區北新路182巷13號\n
+        0937340622\n
+        11:00-21:00\n
+    </string>
+    <string name="store103">\n
+        酷媽知高飯\n\n
+        新北市淡水區北新路182巷13號\n
+        02-86317911\n
+        10:30-20:30\n
+    </string>
+    <string name="store104">\n
+        武狀緣豬腳飯麵館\n\n
+        新北市淡水區北新路182巷11號\n
+        02-86316989\n
+        11:00-20:30\n
+    </string>
+    <string name="store105">\n
+        雅米美食屋\n\n
+        新北市淡水區北新路182巷9號\n
+        02-26295056\n
+        11:00-14:30//16:30-20:00\n
+    </string>
+    <string name="store106">\n
+        豆府花城\n\n
+        新北市淡水區北新路182巷7號\n
+        02-26258389\n
+        11:00-24:00\n
+    </string>
+    <string name="store107">\n
+        Tasty5\n\n
+        新北市北新路182巷5弄2號\n
+        02-26221413\n
+        10:30-21:00\n
+    </string>
+    <string name="store108">\n
+        喜月亭\n\n
+        新北市淡水區北新路182巷5弄24號\n
+        02-26260477\n
+        10:30-20:30\n
+    </string>
+    <string name="store109">\n
+        大胃魔術師蛋包飯\n\n
+        新北市淡水區北新路182巷5弄34號\n
+        0938878224\n
+        11:00-19:30\n
+    </string>
+    <string name="store110">\n
+        記德烤肉\n\n
+        新北市淡水區北新路182巷5弄36號\n
+        02-26233536\n
+        11:00-14:30//17:00-20:00\n
+    </string>
+    <string name="store111">\n
+        金吉祥鍋燒\n\n
+        新北市淡水區北新路182巷5弄38號\n
+        02-26264796\n
+        11:00-21:00\n
+    </string>
+    <string name="store112">\n
+        窯窯拉麵店\n\n
+        新北市淡水區北新路182巷5弄42號\n
+        02-26264759\n
+        11:00-20:30\n
+    </string>
+    <string name="store112_5">\n
+        窯窯拉麵店\n\n
+        新北市淡水區北新路182巷5弄42號\n
+        02-26264759\n
+        11:00-14:10\n
+    </string>
+    <string name="store201">\n
+        賀佳屋\n\n
+        新北市淡水區學府路206號\n
+        02-26217988\n
+        13:00-22:30\n
+    </string>
+    <string name="store202">\n
+        三號貨櫃\n\n
+        新北市淡水區學府路200號\n
+        0912443730\n
+        11:00-21:30\n
+    </string>
+    <string name="store203">\n
+        阿牛鹹酥雞\n\n
+        新北市淡水區學府路200號(對面)\n
+        0907291838\n
+        16:00-12:00\n
+    </string>
+    <string name="store204">\n
+        灣仔\n\n
+        新北市淡水區學府路211-10號\n
+        02-26223777\n
+        10:00-22:00\n
+    </string>
+    <string name="store205">\n
+        小上海香酥雞\n\n
+        新北市淡水區學府路211-7號\n
+        0900489689\n
+        16:00-01:00\n
+    </string>
+    <string name="store206">\n
+        烤了沒\n\n
+        新北市淡水區學府路192號\n
+        02-86316661\n
+        16:30-01:00\n
+    </string>
+    <string name="store207">\n
+        十指大丼\n\n
+        新北市淡水區學府路188號\n
+        0960772112\n
+        13:30-14:00//17:30-20:00\n
+    </string>
+    <string name="store208">\n
+        鮮牛館\n\n
+        新北市淡水區學府路211-10號\n
+        02-26267556\n
+        17:00-01:00\n
+    </string>
+    <string name="store209">\n
+        淘鍋\n\n
+        新北市淡水區學府路186號\n
+        02-26262489\n
+        11:30-22:30\n
+    </string>
+    <string name="store210">\n
+        古早味ㄟ火炭\n\n
+        新北市淡水區學府路186號\n
+        02-26281161\n
+        06:00-12:30\n
+    </string>
+    <string name="store211">\n
+        三個胖子\n\n
+        新北市淡水區學府路182號\n
+        02-26268319\n
+        11:00-14:00//17:00-23:00\n
+    </string>
+    <string name="store212">\n
+        丘山雨林\n\n
+        新北市淡水區學府路180號\n
+        02-26235222\n
+        11:30-14:00//17:30-21:00\n
+    </string>
+    <string name="store213">\n
+        野餐盒\n\n
+        新北市淡水區學府路176號\n
+        02-26201310\n
+        11:00-14:00//17:00-20:00\n
+    </string>
+    <string name="store213_5">\n
+        野餐盒\n\n
+        新北市淡水區學府路176號\n
+        02-26201310\n
+        11:00-14:00\n
+    </string>
+    <string name="store214">\n
+        鬼匠拉麵\n\n
+        新北市淡水區學府路176號\n
+        02-26267968\n
+        11:00-14:30//17:00-20:30\n
+    </string>
+    <string name="store215">\n
+        中日和風飯館\n\n
+        新北市淡水區學府路205巷1弄2號\n
+        02-26220595\n
+        12:00-21:00\n
+    </string>
+    <string name="store216">\n
+        董家炒飯\n\n
+        新北市淡水區學府路203號\n
+        02-26223198\n
+        10:30-14:30//16:30-21:30\n
+    </string>
+    <string name="store217">\n
+        艋舺ㄟ雞排\n\n
+        新北市淡水區學府路174號\n
+        02-26262963\n
+        16:00-01:00\n
+    </string>
+    <string name="store218">\n
+        八兩特大雞排\n\n
+        新北市淡水區學府路170號\n
+        02-86317025\n
+        16:00-02:00\n
+    </string>
+    <string name="store219">\n
+        高記牛肉麵\n\n
+        新北市淡水區學府路168號\n
+        02-26268858\n
+        10:30-14:00//16:50-21:30\n
+    </string>
+    <string name="store220">\n
+        珍讚牛排館\n\n
+        新北市淡水區學府路166號\n
+        02-26267638\n
+        11:00-21:00\n
+    </string>
+    <string name="store221">\n
+        古都快餐\n\n
+        新北市淡水區學府路164-1號\n
+        02-26215336\n
+        11:00-14:00//17:00-20:00\n
+    </string>
+    <string name="store222">\n
+        韋爸快餐店\n\n
+        新北市淡水區學府路193號\n
+        02-26235179\n
+        10:00-20:00\n
+    </string>
+    <string name="store223">\n
+        呷子園\n\n
+        新北市淡水區學府路189號\n
+        02-26209722\n
+        11:15-14:00//17:00-21:00\n
+    </string>
+    <string name="store224">\n
+        池王冠\n\n
+        新北市淡水區學府路187號\n
+        02-26299911\n
+        11:00-21:00\n
+    </string>
+    <string name="store225">\n
+        金萊座餐坊\n\n
+        新北市淡水區學府路160號\n
+        0971004711\n
+        11:00-21:30\n
+    </string>
+    <string name="store226">\n
+        美之軒\n\n
+        新北市淡水區學府路160號\n
+        02-26262620\n
+        16:00-14:30\n
+    </string>
+    <string name="store227">\n
+        多朗克\n\n
+        新北市淡水區學府路191號\n
+        02-26263238\n
+        07:00-14:30\n
+    </string>
+    <string name="store228">\n
+        晨。時刻\n\n
+        新北市淡水區學府路177號\n
+        02-86315238\n
+        06:30-14:00\n
+    </string>
+    <string name="store229">\n
+        黃師傅餐坊\n\n
+        新北市淡水區學府路158號\n
+        02-26268019\n
+        01:00-14:30//17:30-21:00\n
+    </string>
+    <string name="store230">\n
+        鴉片粉圓\n\n
+        新北市淡水區學府路162號\n
+        02-26216866\n
+        12:00-00:00\n
+    </string>
+    <string name="store231">\n
+        大吉祥香豆富\n\n
+        新北市淡水區學府路171號\n
+        02-26210719\n
+        11:00-20:00\n
+    </string>
+    <string name="store232">\n
+        君宴\n\n
+        新北市淡水區學府路211之13號\n
+        0906767216\n
+        16:30-01:00\n
+    </string>
+    <string name="store233">\n
+        雞婆鹹水雞\n\n
+        新北市淡水區學府路211-17號\n
+        0916055356\n
+        17:30-19:15//21:15-01:00\n
+    </string>
+    <string name="store301">\n
+        惡魔燒肉\n\n
+        新北市淡水區水源街二段126號\n
+        02-26225901\n
+        18:00-23:00\n
+    </string>
+    <string name="store302">\n
+        J.L無國界\n\n
+        新北市淡水區水源街二段124號\n
+        02-26201109\n
+        11:00-14:00//17:00-20:30\n
+    </string>
+    <string name="store303">\n
+        仙富洋食館\n\n
+        新北市淡水區水源街二段118號\n
+        02-26201109\n
+        11:00-14:00//17:00-20:00\n
+    </string>
+    <string name="store304">\n
+        明記大塊雞排\n\n
+        新北市淡水區水源街二段114號\n
+        0958792182\n
+        17:30-02:00\n
+    </string>
+    <string name="store305">\n
+        合風食堂\n\n
+        新北市淡水區水源街二段110號\n
+        02-26281138\n
+        11:30-22:15\n
+    </string>
+    <string name="store306">\n
+        滷味王\n\n
+        新北市淡水區水源街二段108號\n
+        02-86311579\n
+        17:00-00:00\n
+    </string>
+    <string name="store307">\n
+        吳師傅魯味\n\n
+        新北市淡水區水源街二段102號\n
+        02-26295169\n
+        18:00-01:00\n
+    </string>
+    <string name="store308">\n
+        讚牛排\n\n
+        新北市淡水區水源街二段96號\n
+        02-26264279\n
+        11:00-14:00//17:00-23:00\n
+    </string>
+    <string name="store309">\n
+        客滿蒸餃\n\n
+        新北市淡水區水源街二段74巷15號\n
+        0908685513\n
+        11:00-20:00\n
+    </string>
+    <string name="store310">\n
+        蒜味香雞排\n\n
+        新北市淡水區北新路61號\n
+        02-26290765\n
+        17:00-02:00\n
+    </string>
+    <string name="store311">\n
+        迦南餐廳\n\n
+        新北市淡水區水源街二段92巷5弄6號\n
+        02-26281190\n
+        11:30-14:30//16:30-21:00\n
+    </string>
+    <string name="store311_6">\n
+        迦南餐廳\n\n
+        新北市淡水區水源街二段92巷5弄6號\n
+        02-26281190\n
+        16:00-21:00\n
+    </string>
+    <string name="store311_7">\n
+        迦南餐廳\n\n
+        新北市淡水區水源街二段92巷5弄6號\n
+        02-26281190\n
+        11:30-20:00\n
+    </string>
+    <string name="store312">\n
+        高松日式屋\n\n
+        新北市淡水區水源街二段92巷13號\n
+        02-26221715\n
+        11:00-21:00\n
+    </string>
+    <string name="store313">\n
+        韓定食\n\n
+        新北市淡水區中正路-2號\n
+        02-26269262\n
+        11:00-21:00\n
+    </string>
+    <string name="store314">\n
+        茶の韻\n\n
+        新北市淡水區水源街二段88號\n
+        02-26293694\n
+        10:30-22:00\n
+    </string>
+    <string name="store315">\n
+        伍蝶\n\n
+        新北市淡水區水源街二段82號\n
+        02-26294187\n
+        22:00-03:30\n
+    </string>
+    <string name="store316">\n
+        木衛二世界茶館\n\n
+        新北市淡水區水源街二段82號\n
+        02-26237276\n
+        11:00-00:00\n
+    </string>
+    <string name="store317">\n
+        Ariel Marco BURGER\n\n
+        新北市淡水區水源街二段80號\n
+        02-26268229\n
+        11:30-22:30\n
+    </string>
+    <string name="store318">\n
+        媽媽樂早餐屋\n\n
+        新北市淡水區水源街二段76號\n
+        02-26236683\n
+        07:30-13:00\n
+    </string>
+    <string name="store319">\n
+        Buona Pasta\n\n
+        新北市淡水區水源街二段92巷5弄2號\n
+        02-26236683\n
+        11:30-15:00//17:00-21:00\n
+    </string>
+    <string name="store320">\n
+        貴族派\n\n
+        新北市淡水區水源街二段94號\n
+        02-26290316\n
+        18:00-13:30\n
+    </string>
+    <string name="store321">\n
+        聞粥粥\n\n
+        新北市淡水區水源街二段92巷5弄8號\n
+        02-26282306\n
+        11:00-22:00\n
+    </string>
+    <string name="store322">\n
+        財哥燒臘\n\n
+        新北市淡水區水源街二段74巷27號\n
+        02-26225909\n
+        11:00-20:00\n
+    </string>
+    <string name="store323">\n
+        極品\n\n
+        新北市淡水區水源街二段74巷25號\n
+        0918473680\n
+        11:00-20:00\n
+    </string>
+    <string name="store324">\n
+        哦嗨喲\n\n
+        新北市淡水區水源街二段74巷17號\n
+        02-26229741\n
+        07:00-15:00\n
+    </string>
+    <string name="store325">\n
+        宵夜500\n\n
+        新北市淡水區水源街二段74巷\n
+        0970388582\n
+        17:00-00:30\n
+    </string>
+    <string name="store326">\n
+        陳記燒臘\n\n
+        新北市淡水區水源街二段74巷7-27號\n
+        02-26295585\n
+        10:00-20:30\n
+    </string>
+    <string name="store327">\n
+        肥喵喵早午餐\n\n
+        新北市淡水區水源街二段74巷3號\n
+        02-26233390\n
+        07:00-15:00\n
+    </string>
+    <string name="store328">\n
+        木川食品滷味\n\n
+        新北市淡水區水源街二段74巷1號\n
+        0981149116\n
+        17:00-01:00\n
+    </string>
+    <string name="store329">\n
+        老娘川菜\n\n
+        新北市淡水區水源街二段74巷20號\n
+        02-86315039\n
+        11:00-15:00//17:00-21:30\n
+    </string>
+    <string name="store330">\n
+        藍與白精緻早午餐\n\n
+        新北市淡水區水源街二段74巷16號1樓號\n
+        02-26267080\n
+        07:30-14:00\n
+    </string>
+    <string name="store331">\n
+        七嘴八舌\n\n
+        新北市淡水區水源街二段74巷2號\n
+        0903717878\n
+        15:30-01:00\n
+    </string>
+    <string name="store332">\n
+        游 宜蘭\n\n
+        新北市淡水區水源街二段74巷2號\n
+        02-86311545\n
+        11:00-19:30\n
+    </string>
+    <string name="store333">\n
+        小滿意早餐店\n\n
+        新北市淡水區水源街二段70號\n
+        0956509396\n
+        06:00-12:30\n
+    </string>
+    <string name="store334">\n
+        清心福全\n\n
+        新北市淡水區水源街二段64號\n
+        02-26290033\n
+        10:30-23:00\n
+    </string>
+    <string name="store335">\n
+        鄉城自助餐\n\n
+        新北市淡水區水源街二段52號\n
+        02-26220828\n
+        10:00-14:00//17:00-19:30\n
+    </string>
+    <string name="store335_6">\n
+        鄉城自助餐\n\n
+        新北市淡水區水源街二段52號\n
+        02-26220828\n
+        10:00-14:00//17:00-19:30\n
+    </string>
+    <string name="store336">\n
+        兔寶\n\n
+        新北市淡水區水源街二段46號\n
+        0976275622\n
+        08:00-15:00\n
+    </string>
+    <string name="store337">\n
+        小李川菜館\n\n
+        新北市淡水區水源街二段40號\n
+        02-26235549\n
+        11:00-15:00//17:00-20:30\n
+    </string>
+    <string name="store338">\n
+        白日夢餐坊\n\n
+        新北市淡水區水源街二段32號\n
+        02-26281965\n
+        11:30-20:00\n
+    </string>
+    <string name="store339">\n
+        6號咖啡\n\n
+        新北市淡水區水源街二段6號\n
+        0937428066\n
+        11:00-20:00\n
+    </string>
+
+</resources>
